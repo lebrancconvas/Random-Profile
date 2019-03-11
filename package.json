@@ -1,0 +1,17 @@
+{
+  "name": "randomprofile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lebrancconvas/Random-Profile.git",
+  "author": "lebrancconvas <lebranccconvas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "backpack-core": "^0.8.3",
+    "bulma": "^0.7.4",
+    "express": "^4.16.4",
+    "puppeteer": "^1.13.0"
+  },
+  "scripts": {
+    "dev": "backpack"
+  }
+}
